@@ -1,4 +1,3 @@
-
 # microicon
 
 SVG icon microservice
@@ -7,41 +6,40 @@ Includes **over 1200** icons from Material Design, Reline, Geomicons, and Simple
 
 ## Usage
 
-[![](https://icon.now.sh/chevron)](https://icon.now.sh/chevron)
+[![](https://microicon-clone.vercel.app/chevron)](https://microicon-clone.vercel.app/chevron)
 
-https://icon.now.sh/chevron
+https://microicon-clone.vercel.app/chevron
 
 ### Size
 
-[![](https://icon.now.sh/chevron/32)](https://icon.now.sh/chevron/32)
+[![](https://microicon-clone.vercel.app/chevron/32)](https://microicon-clone.vercel.app/chevron/32)
 
-https://icon.now.sh/chevron/32
+https://microicon-clone.vercel.app/chevron/32
 
 ### Color
 
-[![](https://icon.now.sh/chevron/ff0000)](https://icon.now.sh/chevron/ff0000)
+[![](https://microicon-clone.vercel.app/chevron/ff0000)](https://microicon-clone.vercel.app/chevron/ff0000)
 
-https://icon.now.sh/chevron/ff0000
+https://microicon-clone.vercel.app/chevron/ff0000
 
 ### Direction
 
 (Only for directional icons)
 
-[![](https://icon.now.sh/chevron/down)](https://icon.now.sh/chevron/down)
+[![](https://microicon-clone.vercel.app/chevron/down)](https://microicon-clone.vercel.app/chevron/down)
 
-https://icon.now.sh/chevron/down
+https://microicon-clone.vercel.app/chevron/down
 
 ### Stroke width
 
 (Only for Reline icons)
 
-[![](https://icon.now.sh/chevron/?strokeWidth=1)](https://icon.now.sh/chevron/?strokeWidth=1)
+[![](https://microicon-clone.vercel.app/chevron/?strokeWidth=1)](https://microicon-clone.vercel.app/chevron/?strokeWidth=1)
 
-https://icon.now.sh/chevron/?strokeWidth=1
+https://microicon-clone.vercel.app/chevron/?strokeWidth=1
 
 ## Icons
 
 For a complete list of icons see: [`icons.md`](icons.md)
-
 
 MIT License
